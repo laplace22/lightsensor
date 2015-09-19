@@ -17,7 +17,7 @@ Plugin01=C:\path\to\lightsensor.exe
 
 ## reference
 
-* munin
+* munin  
   http://munin-monitoring.org/
 * munin-node-win32  
   https://github.com/munin-monitoring/munin-node-win32
