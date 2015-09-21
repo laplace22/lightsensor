@@ -3,7 +3,7 @@ lightsensor
 
 ## description
 
-This software provide ambient light sensor value via WinRT API.
+This software is munin-node-win32 external plugin. This provide ambient light sensor value via WinRT API.
 
 ## usage
 munin-node.ini
